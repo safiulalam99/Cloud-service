@@ -1,2 +1,1 @@
-Gzip: reduces the size of the files suing Lempel-ziv. It compresses files with a .gz file extension. By default, gzip keeps the original file name and timestamp in the compressed file. 
-It has a compression ratio between 1 – 9. 1 being the lowest and 98 being the highest
+Though it was Linus Torvalds who wrote the Linux Kernel initially, he hardly codes anything today. However, he is actively responsible for managing and merging codes written by other developers.
