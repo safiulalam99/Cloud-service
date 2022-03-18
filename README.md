@@ -20,7 +20,7 @@ Shows new tip with every login
 Example must output something like this.
 
 
-`
+```
 =====================================================
 safiul@Safi:~$ source .bashrc
 TIP OF THE TODAY (./tips/1.txt)
@@ -29,5 +29,5 @@ TIP OF THE TODAY (./tips/1.txt)
 Though it was Linus Torvalds who wrote the Linux Kernel initially, he hardly codes anything today. However, he is actively responsible for managing and merging codes written by other developers.
 
 =====================================================
-`
+```
 
