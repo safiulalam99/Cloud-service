@@ -9,7 +9,7 @@ Shows new tip with every login
 ### How to run the script 
 - Clone the `totd` repo to your local bash shell.
 - Replace path in the second line after the cd command. This helps us the .bashrc file locate the directory the script is located at and reads the tips/*.txt files easily.
-- Make the `linuxtips.sh` file executeable by typing `chmod +x linuxtips.sh`. And to  run the script: `./p.sh`. Or simply run the files using `bash p.sh`.
+- Make the `linuxtips.sh` file executeable by typing `chmod +x linuxtips.sh`. And to  run the script: `./linuxtips.sh`. Or simply run the files using `bash linuxtips.sh`.
 
 - Go to your $HOME directory and open the `.bashrc` file using an editor of your choice.
 - In the `.bashrc` file, add `bash <file.sh path>/linuxtips.sh>`.
